@@ -18,7 +18,7 @@ $cyan: #2aa198;
 $green: #859900;
 // Theme Colors
 $color-base: $base03;
-$color-highlight: $cyan;
+$color-highlight: $base01;
 $color-red: $red;
 $color-green: $green;
 $color-yellow: $yellow;
@@ -32,4 +32,4 @@ $color-shade-lightest: lighten($color-base, 5%);
 // Font Colors
 $base-font-color: lighten($base1, 5%);
 $base-link-color: $blue;
-$base-link-color-active: $red;
+$base-link-color-active: $orange;
