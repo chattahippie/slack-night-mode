@@ -28,7 +28,7 @@ $color-shade-darkest: darken($color-base, 5%);
 $color-shade-dark: darken($color-base, 2%);
 $color-shade-mid: $color-base;
 $color-shade-light: lighten($color-base, 2%);
-$color-shade-lightest: darken($color-base, 2%);
+$color-shade-lightest: lighten($color-base, 5%);
 // Font Colors
 $base-font-color: lighten($base1, 5%);
 $base-link-color: $blue;
